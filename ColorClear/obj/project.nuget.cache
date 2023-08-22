@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MKQUpKp4mAM/q50PkVLdiNCbhgEq1HMe9reAf0IGidx+vEcdyomGCuMbroJY3dm5zmlLq/Of4hwc6sH0s7B4Kw==",
+  "dgSpecHash": "eq8LrkLPR3IgVA7i4L3/CDU2c4scrmtWND9aL3eVR04UmePJSUnW5WVLocnbGJ3g+txB5Zvqb0jXKk21LbFw+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\thega\\RiderProjects\\ColorClear\\ColorClear\\ColorClear.csproj",
   "expectedPackageFiles": [
@@ -21,24 +21,11 @@
     "C:\\Users\\thega\\.nuget\\packages\\nquant\\1.0.3\\nquant.1.0.3.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\opentk\\1.1.2225\\opentk.1.1.2225.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\opentk.glcontrol\\1.1.2225\\opentk.glcontrol.1.1.2225.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0\\runtime.any.system.globalization.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\runtime.any.system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\runtime.any.system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0\\runtime.any.system.reflection.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\runtime.any.system.reflection.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0\\runtime.any.system.resources.resourcemanager.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0\\runtime.any.system.runtime.handles.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0\\runtime.any.system.runtime.interopservices.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\runtime.any.system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtime.win.system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
@@ -51,10 +38,7 @@
     "C:\\Users\\thega\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\thega\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.4\\microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.4.nupkg.sha512",
-    "C:\\Users\\thega\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512"
+    "C:\\Users\\thega\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
   ],
   "logs": [
     {

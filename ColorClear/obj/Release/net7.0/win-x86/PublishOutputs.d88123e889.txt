@@ -1,0 +1,3 @@
+C:\Users\thega\RiderProjects\ColorClear\ColorClear\bin\Release\net7.0\win-x86\publish\ColorClear.pdb
+C:\Users\thega\RiderProjects\ColorClear\ColorClear\bin\Release\net7.0\win-x86\publish\Accord.dll.config
+C:\Users\thega\RiderProjects\ColorClear\ColorClear\bin\Release\net7.0\win-x86\publish\ColorClear.exe
